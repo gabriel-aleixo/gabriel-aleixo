@@ -1,5 +1,3 @@
-# gabriel-aleixo
-
 # Hi there! 👋
 
 I'm Gabriel Aleixo, a Product Owner and Software Developer based in Berlin, Germany. Welcome to my GitHub profile!
@@ -11,31 +9,21 @@ I'm Gabriel Aleixo, a Product Owner and Software Developer based in Berlin, Germ
 - 💼 Currently, I work as a Fractional CPO and Product Developer at Alaysho LLC, where I'm involved in planning, developing, and launching mobile apps and designing innovative software architectures.
 - 🚀 I have a proven track record of building teams and driving delivery in fast-paced work environments, with accomplishments including successful product launches and revenue growth.
 
-## Programming Languages
+### Programming Languages, Frameworks
 
-- JavaScript, TypeScript
-- React.js, Node.js, Express
-- SQL, Python, Flask
-- HTML/CSS, REST APIs, Ionic
+- JavaScript, TypeScript, React.js, Node.js, Express, SQL, Python, Flask, HTML/CSS, REST APIs, Ionic
 
-## Product Management Tools
+### Product Management Tools
 
-- JIRA, Trello, Notion
-- GitHub, Miro, Figma
-- Google Analytics, Google Tag Manager
+- JIRA, Trello, Notion, GitHub, Miro, Figma, Google Analytics, Google Tag Manager
 
-## Cloud Platforms
+### Cloud Platforms
 
-- AWS, Google Cloud Platform
-- Digital Ocean, Firebase, Supabase
+- AWS, Google Cloud Platform, Digital Ocean, Firebase, Supabase
 
-## And some other stuff I can do...
+### And some other stuff I can do...
 
-- Customer Discovery, Agile Project Management
-- Scrum, Kanban, Lean
-- Cloud Architecture, Market Research
-- UX/UI Research, Data Analysis
-- Market Analysis, Competitor Analysis
+- Customer Discovery, Agile Project Management, Scrum, Kanban, Lean, Cloud Architecture, Market Research, UX/UI Research, Data Analysis, Market Analysis, Competitor Analysis
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielaleixo/)!
 
