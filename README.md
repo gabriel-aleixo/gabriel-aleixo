@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I am Gabriel Aleixo, a Fullstack Software Developer and Product Owner located in Berlin, Germany.
+I am Gabriel Aleixo, a Fullstack Software Developer and Product Owner based in Berlin, Germany.
 
 Six years ago, I made the switch to the tech industry, starting out in Product Management.
 
