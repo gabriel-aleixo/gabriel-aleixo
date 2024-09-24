@@ -4,9 +4,9 @@ I am Gabriel Aleixo, a Fullstack Software Developer and Product Owner based in B
 
 Six years ago, I made the switch to the tech industry, starting out in Product Management.
 
-As the founder of a B2B SaaS startup, I taught myself modern coding languages and reignited my passion for software development, which had been dormant since my early years of building websites with HTML frames and Flash 2 😱.
+As the founder of a B2B SaaS startup, I taught myself modern coding languages and reignited my passion for software development, which had been dormant since my early years of building websites that used HTML Frames and Flash 2 😱.
 
-Nowadays, I serve as Fractional CPO and Product Developer for startups and small companies, contributing to the planning, development, and launch of web applications, as well as the design of innovative software solutions.
+Nowadays, I serve as Fractional CPO and Product Developer for startups and small companies, contributing to the planning, development, and launch of web applications, as well as the design of customer facing software solutions.
 
 ## About Me
 
@@ -19,7 +19,7 @@ Nowadays, I serve as Fractional CPO and Product Developer for startups and small
 
 ### Programming Languages, Frameworks
 
-- JavaScript, TypeScript, React.js, Node.js, Express, Next.js, SQL, Python, Flask, HTML/CSS, Prisma, REST APIs, Ionic
+- JavaScript, TypeScript, React.js, Node.js, Express, Next.js, Astro, SQL, Python, Flask, HTML/CSS, Prisma, REST APIs, Ionic
 
 ### Product Management Tools
 
@@ -31,6 +31,6 @@ Nowadays, I serve as Fractional CPO and Product Developer for startups and small
 
 ### And some other stuff I can do...
 
-- Customer Discovery, Agile Project Management, Scrum, Kanban, Lean, Cloud Architecture, Market Research, UX/UI Research, Data Analysis, Market Analysis, Competitor Analysis
+- Customer Discovery, Agile Project Management, Scrum, Kanban, Lean, Cloud Architecture, Market Research, UX/UI Research, Data Analysis, Market Analysis, Competitor Analysis, Run RPG Campaigns, Bake Sourdough Bread, among others
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/gabrielaleixo/)!
